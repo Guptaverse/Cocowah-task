@@ -1,11 +1,10 @@
-# Login Page Design -  Cocowah Internship task
+# Login Page Design - Cocowah Internship Task
 
-Tech stack :
-1.HTML
-2.CSS
-as mentioned in email.
+Tech stack:
+- HTML
+- CSS
 
-Deployed Project link ![link](https://guptaverse.github.io/Cocowah-task/)
+Deployed Project Link: [Demo](https://guptaverse.github.io/Cocowah-task/)
 
-![Image](./images/ss1.JPG)
-![Image](./images/ss2.JPG)
+![Image](images/ss1.JPG)
+![Image](images/ss2.JPG)
